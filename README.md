@@ -2,17 +2,12 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-<h1>Hi there! 👋</h1>
-
 <p>
-  I'm <strong>Keya Rabaya</strong> ✨ <br>
-  🎓 Student at HAMK University <br>
-  💻 Tech enthusiast who loves building and learning
+ I'm done preparing your exercise. Hope you enjoy! 💚
 </p>
 
 <p>
-  🚀 Exploring new ideas, one project at a time <br>
-  🌱 Always growing, always curious
+  Remember, it's self-paced so feel free to take a break! ☕️
 </p>
 
 <p>
